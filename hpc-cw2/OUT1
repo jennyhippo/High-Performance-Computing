@@ -1,0 +1,9 @@
+Running on host node46-017
+Time is Thu Dec 13 01:12:19 GMT 2018
+Directory is /panfs/panasas01/cosc/yc16011/hpc-cw2
+PBS job ID is 7828572.master.cm.cluster
+This jobs runs on the following machines:
+node46-017
+------------------------------------
+ runtime for one worker: 0.110387 s
+------------------------------------

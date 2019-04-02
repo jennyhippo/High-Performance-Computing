@@ -1,0 +1,5 @@
+Running on host node31-030
+Time is Sun Dec 9 15:58:47 GMT 2018
+Directory is /panfs/panasas01/cosc/yc16011/hpc-cw2
+PBS job ID is 7797687.master.cm.cluster
+/cm/local/apps/torque/4.2.4.1/spool/mom_priv/jobs/7797687.master.cm.cluster.SC: line 17: ./stencil: No such file or directory

@@ -1,0 +1,27 @@
+Running on host node31-036
+Time is Thu Dec 13 20:29:45 GMT 2018
+Directory is /panfs/panasas01/cosc/yc16011/hpc-cw2
+PBS job ID is 7838944.master.cm.cluster
+This jobs runs on the following machines:
+node31-036
+odd
+------------------------------------
+ runtime rank0: 0.035113 s
+------------------------------------
+------------------------------------
+ runtime rank1: 0.037582 s
+------------------------------------
+------------------------------------
+ runtime rank2: 0.034913 s
+------------------------------------
+------------------------------------
+ runtime rank 3: 0.036168 s
+------------------------------------
+0.000000 to 6.707649 from rank 0
+5.880533 to 0.000000 from rank 3
+5.880533 to 0.000000 given by rank 3
+5.880533 
+5.880534 to 5.880532 from rank 1
+5.880534 to 5.880532 given by rank 1
+5.880534 to 5.880532 from rank 2
+5.880534 to 5.880532 given by rank 2
